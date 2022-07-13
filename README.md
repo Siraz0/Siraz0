@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React with help of Udemy course**
 
-- 👨‍💻 All of my projects are available at [p-project.pl](p-project.pl)
-
 - 📫 How to reach me **p.w.szczerba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
