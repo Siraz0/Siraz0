@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siraz0&label=Profile%20views&color=0e75b6&style=flat" alt="siraz0" /> </p>
 
-- 🔭 I’m currently working on [SunRay project](https://github.com/Siraz0/sunray)
-
-- 🌱 I’m currently learning **React with help of Udemy course**
-
 - 📫 How to reach me **p.w.szczerba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
